@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="btnLoadXML">
     <property name="geometry">
      <rect>
-      <x>80</x>
-      <y>80</y>
+      <x>590</x>
+      <y>460</y>
       <width>111</width>
       <height>24</height>
      </rect>
@@ -30,8 +30,8 @@
    <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>60</x>
-      <y>130</y>
+      <x>20</x>
+      <y>10</y>
       <width>671</width>
       <height>411</height>
      </rect>

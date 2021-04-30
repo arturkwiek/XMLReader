@@ -10,10 +10,12 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    xmlreader.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    xmlreader.h
 
 FORMS += \
     mainwindow.ui
